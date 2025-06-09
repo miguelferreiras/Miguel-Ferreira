@@ -8,4 +8,8 @@ Dashboard Home Assistant Mobile
 <img src="images/Screenshot_20250609_072751_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
 <img src="images/Screenshot_20250609_072915_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
 <img src="images/Screenshot_20250609_073000_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
+<img src="images/Screenshot_20250609_080927_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
+<img src="images/Screenshot_20250609_081053_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
+<img src="images/Screenshot_20250609_081216_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
+<img src="images/Screenshot_20250609_081249_Home Assistant.jpg" alt="Dashboard Home Assistant Mobile" width="142" height="287">
 </div>
